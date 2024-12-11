@@ -4,5 +4,9 @@ Our project focuses on training and fine-tuning an NLP model that detects toxic 
 
 ### File Descriptions
 - ToxicCommentModel.ipynb
+- DataConvert.ipynb
+- Dataset.zip
+  - Original: https://huggingface.co/datasets/SetFit/toxic_conversations
+  - Modified to 30000 rows: https://huggingface.co/datasets/vhinatav/360toxicdata30000
 - Training_Results.zip: Contain png files of training results
 - Evaluation_Results.zip: Contain png files of evaluation results
